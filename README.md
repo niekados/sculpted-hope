@@ -91,3 +91,20 @@ Page navigation- linear, with the same appearance on all the pages. Depending on
     - Shop
     - Classes
 - Send button
+
+## Skeleton
+
+### Wireframes
+
+#### Home Page
+![Index page wireframe](/assets/wireframes/index.png)
+
+#### Shop Page
+![Shop Page wireframes](/assets/wireframes/shop.png)
+
+#### Workshop page
+![Workshop page wireframes](/assets/wireframes/classes.png)
+
+#### Contact Page
+![Contact page wireframes](/assets/wireframes/contact.png)
+

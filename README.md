@@ -55,7 +55,7 @@ Page navigation- linear, with the same appearance on all the pages. Depending on
 - Tablet - Links and text displayed in one line. Copyright will be on the left side and Social links on the right side.
 - Desktop - Links and text displayed in one line. Copyright will be on the left side and Social links on the right side.
 
-### Home Page
+### Home Page
 
 - Mobile - Hero image welcomes the visitor with an image of pottery/ceramics and a call to action text with a Shop page link.  Bellow will be the artist's welcome message and her photograph with a short story of herself and her business. All will be presented in a column to allow for easy reading and scrolling on mobile devices.
 - Tablet & Desktop - Hero image welcomes the visitor with an image of pottery/ceramics and a call to action text with a Shop page link. Bellow will be the artist's welcome message with her picture on the left and the story about her and her business on the right.  
@@ -75,3 +75,15 @@ Page navigation- linear, with the same appearance on all the pages. Depending on
 
 - Mobile & Tablet - The hero image on top of the page, visually represents that we are on the contact page, followed by the call to action message for getting in touch and a contact form displayed in a column.
 - Desktop - The hero image on top of the page, visually represents that we are on the contact page, followed by the call to action message for getting in touch and a contact form. The desktop view will have Name, Email, and Phone Number input fields shown on the same line, and the Message box will go below it, with radio buttons under it for General, Shop, and Classes. The Send button will be placed at the very bottom.
+
+### Contact Form Structure
+
+- Name
+- Email
+- Phone (Optional)
+- Message box
+- Radio Buttons:
+    - General
+    - Shop
+    - Classes
+- Send button

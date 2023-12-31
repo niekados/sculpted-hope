@@ -54,3 +54,14 @@ Page navigation- linear, with the same appearance on all the pages. Depending on
 - Mobile - Social Links will be centred on the top line of the footer, with developer copyright centred on the bottom line.   
 - Tablet - Links and text displayed in one line. Copyright will be on the left side and Social links on the right side.
 - Desktop - Links and text displayed in one line. Copyright will be on the left side and Social links on the right side.
+
+### Home Page
+
+- Mobile - Hero image welcomes the visitor with an image of pottery/ceramics and a call to action text with a Shop page link.  Bellow will be the artist's welcome message and her photograph with a short story of herself and her business. All will be presented in a column to allow for easy reading and scrolling on mobile devices.
+- Tablet & Desktop - Hero image welcomes the visitor with an image of pottery/ceramics and a call to action text with a Shop page link. Bellow will be the artist's welcome message with her picture on the left and the story about her and her business on the right.  
+
+### Shop Page
+
+- Mobile - Different hero image at the top of the page representing the shop page. Pictures of artworks with a “Buy” button at the bottom are displayed in a single column. The “Buy” button will be linked to an external artist's Etsy web store.
+- Tablet - The same layout as the mobile, but the artwork and buy buttons will be presented in two columns.
+- Desktop - The same layout as the mobile, but the artwork and buy buttons will be presented in three columns.

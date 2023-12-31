@@ -65,3 +65,13 @@ Page navigation- linear, with the same appearance on all the pages. Depending on
 - Mobile - Different hero image at the top of the page representing the shop page. Pictures of artworks with a “Buy” button at the bottom are displayed in a single column. The “Buy” button will be linked to an external artist's Etsy web store.
 - Tablet - The same layout as the mobile, but the artwork and buy buttons will be presented in two columns.
 - Desktop - The same layout as the mobile, but the artwork and buy buttons will be presented in three columns.
+
+### Workshop Page
+
+- Mobile - Different hero image at the top of the page representing the workshop page. Bellow will be a call to action message to join classes/workshops and a “Join” button, followed by the schedule of the classes days and times broken down into weekdays and weekends. All are displayed in a single column. At the bottom of the page, the map will be placed to allow visitors to easily find the location of the studio.
+- Tablet & Desktop - The same layout as the mobile, but times and dates are displayed in the same line for the weekdays and weekends, instead of a column.
+
+### Contact Page
+
+- Mobile & Tablet - The hero image on top of the page, visually represents that we are on the contact page, followed by the call to action message for getting in touch and a contact form displayed in a column.
+- Desktop - The hero image on top of the page, visually represents that we are on the contact page, followed by the call to action message for getting in touch and a contact form. The desktop view will have Name, Email, and Phone Number input fields shown on the same line, and the Message box will go below it, with radio buttons under it for General, Shop, and Classes. The Send button will be placed at the very bottom.

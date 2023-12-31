@@ -28,3 +28,15 @@ Returning users would like to:
 - Find the address of her pottery studio before attending her classes
 - Get in touch with an artist
 - Check again the social links of an artist
+
+## Scope
+
+This project has budget limitations and to keep the lowest costs possible the website will be static, keeping development and maintenance expenses minimal. The artist would like to introduce herself to the users and a welcoming message on the first visit would fulfil the requirement, it would also give a personal touch and build a relationship with the visitor.  
+
+Selling artwork is as important as building relations with users, for this reason, we will implement a web store page/section to list artworks available for purchase. The items in the store will be linked to the artist's Etsy store, further simplifying and reducing the costs of payment system management.
+
+As an artist also runs pottery workshops, we will have a section/page with information about classes, to let the users know of available times and dates. Including a map will allow users to easily find the location of the studio if they decide to attend workshops.
+
+Easy communication is an important part of the project and there will be a contact form available on the website, as well as social media links, allowing visitors to be in touch with the artist.
+
+All pages will have images reflecting the theme of the section the user is currently visiting. Shop stores will have individual images for each store item. 

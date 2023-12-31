@@ -49,11 +49,15 @@ The website will have 4 pages. Home page, Shop page, Workshops page, and Contact
 
 Page navigation- linear, with the same appearance on all the pages. Depending on your location on the site, the corresponding page name will be highlighted in the nav bar. The Navigation bar will be placed on top of the screen for easy and intuitive access. For mobile devices, it will collapse into a hamburger menu. For larger screens, it will be displayed in one line without the collapsed menu.
 
+![Navigation structure image](/assets/wireframes/navigation.png)
+
 ### Footer
 
 - Mobile - Social Links will be centred on the top line of the footer, with developer copyright centred on the bottom line.   
 - Tablet - Links and text displayed in one line. Copyright will be on the left side and Social links on the right side.
 - Desktop - Links and text displayed in one line. Copyright will be on the left side and Social links on the right side.
+
+![Footer structure image](/assets/wireframes/footer.png)
 
 ### Home Page
 

@@ -40,3 +40,11 @@ As an artist also runs pottery workshops, we will have a section/page with infor
 Easy communication is an important part of the project and there will be a contact form available on the website, as well as social media links, allowing visitors to be in touch with the artist.
 
 All pages will have images reflecting the theme of the section the user is currently visiting. Shop stores will have individual images for each store item. 
+
+## Structure
+
+The website will have 4 pages. Home page, Shop page, Workshops page, and Contact page. 
+
+### Navigation
+
+Page navigation- linear, with the same appearance on all the pages. Depending on your location on the site, the corresponding page name will be highlighted in the nav bar. The Navigation bar will be placed on top of the screen for easy and intuitive access. For mobile devices, it will collapse into a hamburger menu. For larger screens, it will be displayed in one line without the collapsed menu.

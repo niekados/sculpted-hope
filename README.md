@@ -108,3 +108,8 @@ Page navigation- linear, with the same appearance on all the pages. Depending on
 #### Contact Page
 ![Contact page wireframes](/assets/wireframes/contact.png)
 
+## Technologies Used
+[Real Favicon Generator](https://realfavicongenerator.net/) - to generate Favicon from an image.
+
+## Credits
+[UXWing](https://uxwing.com/ceramic-pottery-icon/) - used Ceramic Pottery Icon for Favicon, made available by [UXWing](https://uxwing.com/) under free license.

@@ -11,12 +11,21 @@
 
 body {
     font-family: 'Quicksand', sans-serif;
+
+    /* 
+    Sticky footer - keeps footer at the bottom of the page, if there is not enough of the main content to push it down.
+    Example used from "Love running" walkthrough lesson. 
+    */
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 header {
     background-color: yellow
 }
 
+/* Header */
 header h1 {
     font-family: 'Cormorant Garamond', serif;
     font-style: italic;
@@ -27,8 +36,14 @@ header a {
     text-decoration: none;
 }
 
-main { 
+/* Main content */
+main {
     background-color: green;
+    /* 
+    Sticky footer - push footer down by utilising unused space in main section.
+    Example used from "Love running" walkthrough lesson.  
+    */
+    flex: 1 0 auto; 
 }
 
 footer {

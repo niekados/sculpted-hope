@@ -1,0 +1,36 @@
+/* Goole fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&family=Quicksand:wght@400;500;600&display=swap');
+
+/* Reset browser default styles */
+* {
+    margin: 0;
+    padding: 0;
+    /* box-sizing property to include border and padding in the total height and width of an elements */
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+header {
+    background-color: yellow
+}
+
+header h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-weight: 400;
+}
+
+header a {
+    text-decoration: none;
+}
+
+main { 
+    background-color: green;
+}
+
+footer {
+    background-color: red;
+}

@@ -108,8 +108,14 @@ Page navigation- linear, with the same appearance on all the pages. Depending on
 #### Contact Page
 ![Contact page wireframes](/assets/wireframes/contact.png)
 
+## Surface
+### Fonts
+- __Cormorant Garamond *italic*__ - google font designed by Christian Thalmann is used for the logo.
+- __Quicksand__ - google font Designed by Andrew Paglinawan is used for main content and navigation links.
+
 ## Technologies Used
 [Real Favicon Generator](https://realfavicongenerator.net/) - to generate Favicon from an image.
+[Google Fonts](https://fonts.google.com/) - used to add fonts to the logo, navigation links and main content.
 
 ## Credits
 [UXWing](https://uxwing.com/ceramic-pottery-icon/) - used Ceramic Pottery Icon for Favicon, made available by [UXWing](https://uxwing.com/) under free license.

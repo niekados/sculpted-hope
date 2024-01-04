@@ -28,6 +28,7 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
+    display: flex;
 }
 
 #logo {
@@ -48,10 +49,21 @@ header a {
     background-color: #f5eae3;
     width: 100%;
     display: none;
+    top: 100%;
+}
+
+#hamburger-menu {
+    display: none;
+}
+
+/* Hamburger menu toggle */
+#hamburger-menu:checked~nav {
+    display: block;
 }
 
 /* Main content */
 main {
+    margin-top: 39px;
     background-color: green;
     /* 
     Sticky footer - push footer down by utilising unused space in main section.

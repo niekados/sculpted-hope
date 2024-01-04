@@ -11,6 +11,7 @@
 
 body {
     font-family: 'Quicksand', sans-serif;
+    color: #41433e;
 
     /* 
     Sticky footer - keeps footer at the bottom of the page, if there is not enough of the main content to push it down.
@@ -21,19 +22,32 @@ body {
     flex-direction: column;
 }
 
+/* Header */
 header {
-    background-color: yellow
+    background-color: #f5eae3;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
 }
 
-/* Header */
-header h1 {
+#logo {
     font-family: 'Cormorant Garamond', serif;
     font-style: italic;
     font-weight: 400;
+    color: #931507;
 }
 
 header a {
     text-decoration: none;
+    color: #41433e;
+}
+
+/* Navigation menu */
+#navigation-menu {
+    position: absolute;
+    background-color: #f5eae3;
+    width: 100%;
+    display: none;
 }
 
 /* Main content */

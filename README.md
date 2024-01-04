@@ -111,11 +111,21 @@ Page navigation- linear, with the same appearance on all the pages. Depending on
 ## Surface
 ### Fonts
 - __Cormorant Garamond *italic*__ - google font designed by Christian Thalmann is used for the logo.
-- __Quicksand__ - google font Designed by Andrew Paglinawan is used for main content and navigation links.
+- __Quicksand__ - google font Designed by Andrew Paglinawan is used for the main content and navigation links.
+
+## Colours
+The website colours were chosen to be light and earthy, not too distracting or harsh on the user's eyes. The artist picked a red logo, and that same red will be used for accents on the website to tie everything together. 
+Colours were matched using the [Colour Contrast Checker](https://colourcontrast.cc/) to guarantee a minimum contrast index of 4.5.
+![Colour palette](assets/wireframes/colors.png)
+
+- **#f5eae3** - A light, creamy colour with a subtle hint of pink reminiscent of clay, intended for use as the background.
+- **#41433e** - An earthy, dark grey colour designated as the main font colour.
+- **#931507** - A deep red colour was personally chosen by the artist for her logo, and it will also be used for buttons on the website.
 
 ## Technologies Used
-[Real Favicon Generator](https://realfavicongenerator.net/) - to generate Favicon from an image.
-[Google Fonts](https://fonts.google.com/) - used to add fonts to the logo, navigation links and main content.
+- [Real Favicon Generator](https://realfavicongenerator.net/) - to generate Favicon from an image.
+- [Google Fonts](https://fonts.google.com/) - used to add fonts to the logo, navigation links and main content.
+- [Colour Contrast Checker](https://colourcontrast.cc/) - colour contrast checker for the background and fonts.
 
 ## Credits
-[UXWing](https://uxwing.com/ceramic-pottery-icon/) - used Ceramic Pottery Icon for Favicon, made available by [UXWing](https://uxwing.com/) under free license.
+- [UXWing](https://uxwing.com/ceramic-pottery-icon/) - used Ceramic Pottery Icon for Favicon, made available by [UXWing](https://uxwing.com/) under a free license.

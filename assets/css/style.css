@@ -39,6 +39,7 @@ header {
     font-weight: 700;
     color: #931507;
     letter-spacing: 0.2rem;
+    text-shadow: 1px 2px 2px rgba(65, 67, 62, 0.34);
 }
 
 header a {
@@ -67,6 +68,15 @@ nav {
     padding: 5px 20px;
 }
 
+#nav-list a {
+    transition: color 0.7s ease-out;
+}
+
+#nav-list a:hover {
+    color: #931507;
+    text-shadow: 1px 2px 2px rgba(65, 67, 62, 0.34);
+}
+
 #hamburger-menu {
     display: none;
 }
@@ -74,6 +84,10 @@ nav {
 .hamburger-label {
     align-self: center;
     font-size: 140%;
+}
+
+.active {
+    color: #931507;
 }
 
 /* Hamburger menu toggle */

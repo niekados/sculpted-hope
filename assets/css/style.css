@@ -1,5 +1,5 @@
 /* Goole fonts */
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&family=Quicksand:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500;1,700&family=Quicksand:wght@400;500;600&display=swap');
 
 /* Reset browser default styles */
 * {
@@ -29,13 +29,16 @@ header {
     z-index: 99;
     width: 100%;
     display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
 }
 
 #logo {
     font-family: 'Cormorant Garamond', serif;
     font-style: italic;
-    font-weight: 400;
+    font-weight: 700;
     color: #931507;
+    letter-spacing: 0.2rem;
 }
 
 header a {
@@ -44,16 +47,32 @@ header a {
 }
 
 /* Navigation menu */
-#navigation-menu {
+nav {
     position: absolute;
     background-color: #f5eae3;
-    width: 100%;
     display: none;
     top: 100%;
+    right: 0;
+}
+
+#nav-list {
+    list-style-type: none;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#nav-list li {
+    letter-spacing: 0.2rem;
+    font-weight: 600;
+    padding: 5px 20px;
 }
 
 #hamburger-menu {
     display: none;
+}
+
+.hamburger-label {
+    align-self: center;
 }
 
 /* Hamburger menu toggle */

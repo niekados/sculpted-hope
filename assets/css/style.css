@@ -73,6 +73,7 @@ nav {
 
 .hamburger-label {
     align-self: center;
+    font-size: 140%;
 }
 
 /* Hamburger menu toggle */
@@ -82,7 +83,7 @@ nav {
 
 /* Main content */
 main {
-    margin-top: 39px;
+    margin-top: 59px;
     background-color: green;
     /* 
     Sticky footer - push footer down by utilising unused space in main section.

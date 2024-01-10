@@ -1,5 +1,5 @@
 /* Goole fonts */
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500;1,700&family=Quicksand:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,400;1,500;1,700&family=Quicksand:wght@400;500;600&display=swap');
 
 /* Reset browser default styles */
 * {
@@ -33,12 +33,10 @@ header {
     padding: 10px 20px;
 }
 
-#logo {
+#logo h1 {
     font-family: 'Cormorant Garamond', serif;
-    font-style: italic;
-    font-weight: 700;
+    font-weight: 400; 
     color: #931507;
-    letter-spacing: 0.2rem;
 }
 
 header a {
@@ -96,8 +94,41 @@ main {
     flex: 1 0 auto; 
 }
 
+/* Footer */
 footer {
-    background-color: red;
+    display: block;
+    background-color: #f5eae3;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    font-size: 160%;
+}
+
+.social-links a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.social-links li {
+    padding: 5px 20px;
+}
+
+.copyright p {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.copyright span {
+    color: #931507;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 130%;
+}
+
+.copyright a {
+    color: #41433e;
 }
 
 /* Mouse hover effect */
@@ -133,5 +164,16 @@ footer {
     #nav-list li {
         padding: 0 0 0 20px;
         align-self: center;
+    }
+
+    /* Footer */
+    footer {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        padding: 20px 10px 10px 20px;
+    }
+    .social-links {
+        order: 1;
     }
 }

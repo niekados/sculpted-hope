@@ -167,8 +167,9 @@ footer {
     color: #41433e;
 }
 
-/* Mouse hover effect */
+/* Styles shared across all pages */
 
+/* Mouse hover effect */
 .mouse-hover-effect a {
     transition: color 0.6s ease-out;
 }
@@ -176,6 +177,26 @@ footer {
 .mouse-hover-effect a:hover {
     color: #931507;
     text-shadow: 1px 2px 2px rgba(65, 67, 62, 0.34);
+}
+
+/* Button */
+button {
+    width: 90px;
+    font-size: 16px;
+    background-color: #931507;
+    border-radius: 8px;
+    border: #931507 solid 3px;
+    height: 40px;
+    color: #f5eae3;
+    font-weight: 600;
+    transition: color 0.6s ease-out;
+
+}
+
+button:hover {
+    color: #931507;
+    background-color: #f5eae3;
+    box-shadow: 1px 2px 2px rgba(65, 67, 62, 0.34);
 }
 
 /* Media queries */

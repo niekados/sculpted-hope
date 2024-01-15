@@ -86,12 +86,21 @@ nav {
 /* Main content */
 main {
     margin-top: 59px;
-    background-color: green;
+    background-color: #f5eae3;
     /* 
     Sticky footer - push footer down by utilising unused space in main section.
     Example used from "Love running" walkthrough lesson.  
     */
     flex: 1 0 auto; 
+}
+
+/* Hero Image */
+.hero-image {
+    display: flex;
+    height: 30vh;
+    background: black url("../images/bowls-pink-background.webp") no-repeat center center/150%;
+    justify-content: end;
+    align-items: center;
 }
 
 /* Footer */

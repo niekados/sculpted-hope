@@ -35,7 +35,7 @@ header {
 
 #logo {
     font-family: 'Cormorant Garamond', serif;
-    font-weight: 400; 
+    font-weight: 400;
     color: #931507;
 }
 
@@ -91,7 +91,7 @@ main {
     Sticky footer - push footer down by utilising unused space in main section.
     Example used from "Love running" walkthrough lesson.  
     */
-    flex: 1 0 auto; 
+    flex: 1 0 auto;
 }
 
 /* Hero Image */
@@ -227,13 +227,13 @@ footer {
 /* Media queries */
 
 /* Tablets and larger (768px and larger) */
-@media screen and (min-width: 768px){
+@media screen and (min-width: 768px) {
 
     /* Navigation menu */
     nav {
         position: relative;
         display: flex;
-    } 
+    }
 
     .hamburger-label {
         display: none;
@@ -248,6 +248,30 @@ footer {
         align-self: center;
     }
 
+    /* Hero image */
+    .hero-image {
+        background-size: cover;
+        width: 97%;
+        margin: auto;
+        align-items: end;
+    }
+
+    /* Call to action */
+    .call-to-action {
+        margin-bottom: 5%;
+    }
+
+    .call-to-action h2 {
+        font-size: 1.7rem;
+    }
+
+    /* About section */
+    #artist-image {
+        width: 30%;
+        border-radius: 15px;
+        margin-top: 10%;
+    }
+
     /* Footer */
     footer {
         display: flex;
@@ -255,6 +279,7 @@ footer {
         justify-content: space-between;
         padding: 20px 10px 10px 20px;
     }
+
     .social-links {
         order: 1;
     }

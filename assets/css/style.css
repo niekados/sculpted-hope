@@ -141,12 +141,16 @@ main {
     margin: 30px 0 30px auto;
     text-align: center;
     color: #931507;
-    font-size: 170%;
+    font-size: 1.7rem;
     font-style: italic;
 }
 
 #about p {
     margin-bottom: 20px;
+}
+
+#about p:nth-of-type(5) {
+    text-align: end;
 }
 
 #artist-image {
@@ -272,6 +276,10 @@ footer {
         margin-top: 10%;
     }
 
+    #about p {
+        max-width: 70ch;
+    }
+
     /* Footer */
     footer {
         display: flex;
@@ -282,5 +290,83 @@ footer {
 
     .social-links {
         order: 1;
+    }
+}
+
+/* Laptops and larger (992px and larger) */
+@media screen and (min-width: 992px) {
+
+    /* Hero image */
+    .hero-image {
+        height: 50vh;
+    }
+
+    /* About section */
+    #artist-image {
+        margin-top: 7%;
+    }
+
+    #about p {
+        margin: 0 3% 20px 35%;
+    }
+
+    /* Footer */
+    footer {
+        padding-bottom: 30px;
+    }
+}
+
+/* Desktops and larger (1200px and larger) */
+@media screen and (min-width: 1200px) {
+
+    /* About section */
+    #artist-image {
+        width: 25%;
+    }
+
+    #about h2 {
+        font-size: 2.3rem;
+    }
+
+}
+
+/* Wide monitors and larger (1920px and larger) */
+@media screen and (min-width: 1920px) {
+
+    header,
+    main,
+    footer {
+        padding-left: 15%;
+        padding-right: 15%;
+    }
+
+    /* Hero image */
+    .hero-image {
+        width: 100%;
+    }
+
+    /* Call to action */
+    .call-to-action {
+        margin-bottom: 10%;
+        margin-right: 10%;
+    }
+
+    .call-to-action h2 {
+        font-size: 2rem;
+    }
+
+    .call-to-action a {
+        margin-left: 35%;
+    }
+
+    /* About section */
+    #about p {
+        margin-left: 50%;
+        margin-bottom: 40px;
+    }
+
+    #artist-image {
+        margin-left: 10%;
+        width: 20%;
     }
 }

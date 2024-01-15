@@ -130,6 +130,25 @@ main {
     color: #931507;
 }
 
+/* About section */
+#about {
+    width: 90%;
+    margin: auto;
+}
+
+#about h2 {
+    width: 70%;
+    margin: 30px auto;
+    text-align: center;
+    color: #931507;
+    font-size: 170%;
+    font-style: italic;
+}
+
+#about p {
+    margin-bottom: 20px;
+}
+
 /* Footer */
 footer {
     display: block;

@@ -129,3 +129,7 @@ Colours were matched using the [Colour Contrast Checker](https://colourcontrast.
 
 ## Credits
 - [UXWing](https://uxwing.com/ceramic-pottery-icon/) - used Ceramic Pottery Icon for Favicon, made available by [UXWing](https://uxwing.com/) under a free license.
+
+### Images:
+- Home page - [Hero image background](https://unsplash.com/photos/assorted-bowls-on-brown-surface-ypi0l7vP0Vw) - photo by [khloe arledge](https://unsplash.com/@khloephoto).
+- Home page - [Artist girl image](https://www.pexels.com/photo/painter-standing-with-canvas-frame-in-workshop-5641957/) - photo by [Anna Shvets](https://www.pexels.com/@shvetsa/).

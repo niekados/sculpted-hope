@@ -180,7 +180,7 @@ footer {
 }
 
 /* Button */
-button {
+.red-button {
     width: 90px;
     font-size: 16px;
     background-color: #931507;
@@ -190,10 +190,9 @@ button {
     color: #f5eae3;
     font-weight: 600;
     transition: color 0.6s ease-out;
-
 }
 
-button:hover {
+.red-button:hover {
     color: #931507;
     background-color: #f5eae3;
     box-shadow: 1px 2px 2px rgba(65, 67, 62, 0.34);

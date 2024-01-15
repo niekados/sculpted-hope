@@ -33,7 +33,7 @@ header {
     padding: 10px 20px;
 }
 
-#logo h1 {
+#logo {
     font-family: 'Cormorant Garamond', serif;
     font-weight: 400; 
     color: #931507;
@@ -153,7 +153,7 @@ main {
     width: 49%;
     border-radius: 15px;
     float: left;
-    margin: 20% 3% 3% 1%;
+    margin: 5% 3% 3% 1%;
 }
 
 /* Footer */

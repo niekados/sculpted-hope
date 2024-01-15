@@ -138,7 +138,7 @@ main {
 
 #about h2 {
     width: 70%;
-    margin: 30px auto;
+    margin: 30px 0 30px auto;
     text-align: center;
     color: #931507;
     font-size: 170%;
@@ -147,6 +147,13 @@ main {
 
 #about p {
     margin-bottom: 20px;
+}
+
+#artist-image {
+    width: 49%;
+    border-radius: 15px;
+    float: left;
+    margin: 20% 3% 3% 1%;
 }
 
 /* Footer */

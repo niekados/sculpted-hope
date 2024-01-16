@@ -112,6 +112,11 @@ main {
     background: black url("../images/shopping-bags.webp") no-repeat top center/150%;
 }
 
+/* Credits: https://www.pexels.com/photo/a-person-making-a-pot-14676586/ - photo by Anastasia Lashkevich */
+.hero-workshops-page {
+    background: black url("../images/person-making-a-pot.webp") no-repeat center center/150%;
+}
+
 /* Home page */
 
 /* Call to action */
@@ -178,6 +183,18 @@ main {
 
 .shop-button {
     margin: 15px;
+}
+
+/* Workshops page */
+#workshops-description {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+#workshops-description p {
+    margin: 0 auto 30px;
+    text-align: justify;
 }
 
 /* Footer */

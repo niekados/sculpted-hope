@@ -153,3 +153,6 @@ Colours were matched using the [Colour Contrast Checker](https://colourcontrast.
     - [four-gray-jar-on-white-surface](https://unsplash.com/photos/four-gray-jar-on-white-surface-NUUjVj4YQLA) - photo by [Tom Crew](https://unsplash.com/@tomcrewceramics).
     - [couple-of-white-bowls-sitting-on-top-of-a-table](https://unsplash.com/photos/a-couple-of-white-bowls-sitting-on-top-of-a-table-t9sRlYIzfIQ) - photo by [Tom Crew](https://unsplash.com/@tomcrewceramics).
     - [gray-cup](https://unsplash.com/photos/gray-cup-XtyxEBiA8D8) - photo by [Tom Crew](https://unsplash.com/@tomcrewceramics).
+
+    - #### Workshops Page
+    - [person-making-a-pot](https://www.pexels.com/photo/a-person-making-a-pot-14676586/) - photo by [Anastasia Lashkevich](https://www.pexels.com/@immortelleana/).

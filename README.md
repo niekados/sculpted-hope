@@ -49,7 +49,7 @@ The website will have 4 pages. Home page, Shop page, Workshops page, and Contact
 
 Page navigation- linear, with the same appearance on all the pages. Depending on your location on the site, the corresponding page name will be highlighted in the nav bar. The Navigation bar will be placed on top of the screen for easy and intuitive access. For mobile devices, it will collapse into a hamburger menu. For larger screens, it will be displayed in one line without the collapsed menu.
 
-![Navigation structure image](/assets/wireframes/navigation.png)
+![Navigation structure image](assets/wireframes/navigation.png)
 
 ### Footer
 
@@ -57,7 +57,7 @@ Page navigation- linear, with the same appearance on all the pages. Depending on
 - Tablet - Links and text displayed in one line. Copyright will be on the left side and Social links on the right side.
 - Desktop - Links and text displayed in one line. Copyright will be on the left side and Social links on the right side.
 
-![Footer structure image](/assets/wireframes/footer.png)
+![Footer structure image](assets/wireframes/footer.png)
 
 ### Home Page
 
@@ -97,16 +97,16 @@ Page navigation- linear, with the same appearance on all the pages. Depending on
 ### Wireframes
 
 #### Home Page
-![Index page wireframe](/assets/wireframes/index.png)
+![Index page wireframe](assets/wireframes/index.png)
 
 #### Shop Page
-![Shop Page wireframes](/assets/wireframes/shop.png)
+![Shop Page wireframes](assets/wireframes/shop.png)
 
 #### Workshop page
-![Workshop page wireframes](/assets/wireframes/classes.png)
+![Workshop page wireframes](assets/wireframes/classes.png)
 
 #### Contact Page
-![Contact page wireframes](/assets/wireframes/contact.png)
+![Contact page wireframes](assets/wireframes/contact.png)
 
 ## Surface
 ### Fonts

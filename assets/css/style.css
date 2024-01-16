@@ -94,13 +94,22 @@ main {
     flex: 1 0 auto;
 }
 
-/* Hero Image */
+/* Hero Images */
 .hero-image {
     display: flex;
     height: 30vh;
-    background: black url("../images/bowls-pink-background.webp") no-repeat center center/150%;
+}
+
+/* Credits https://unsplash.com/photos/a-white-plate-with-some-flowers-in-it-1ZYKRmTb2BE - photo by Kasia Sikorska */
+.hero-home-page {
+    background: white url("../images/a-white-plate-with-some-flowers.webp") no-repeat center right/150%;   
     justify-content: end;
     align-items: center;
+}
+
+/* Credits:  https://unsplash.com/photos/red-and-gold-beaded-necklace-eD1RNYzzUxc) - photo by Tamanna Rumee*/
+.hero-shop-page {
+    background: black url("../images/shopping-bags.webp") no-repeat top center/150%;
 }
 
 /* Call to action */
@@ -252,11 +261,14 @@ footer {
         align-self: center;
     }
 
-    /* Hero image */
+    /* Hero images */
     .hero-image {
         background-size: cover;
         width: 97%;
         margin: auto;
+    }
+
+    .hero-home-page {
         align-items: end;
     }
 

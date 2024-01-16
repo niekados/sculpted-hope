@@ -339,6 +339,7 @@ footer {
         background-size: cover;
         width: 97%;
         margin: auto;
+        border-radius: 8px;
     }
 
     .hero-home-page {

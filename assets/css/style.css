@@ -221,6 +221,16 @@ main {
     border-radius: 8px;
 }
 
+/* Map */
+#map {
+    width: 100%;
+}
+
+#map iframe {
+    width: 100%;
+    height: 20vh;
+}
+
 /* Footer */
 footer {
     display: block;

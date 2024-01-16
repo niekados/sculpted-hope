@@ -112,6 +112,8 @@ main {
     background: black url("../images/shopping-bags.webp") no-repeat top center/150%;
 }
 
+/* Main page */
+
 /* Call to action */
 .call-to-action {
     background-color: rgba(255, 255, 255, 0.6);
@@ -168,6 +170,9 @@ main {
     float: left;
     margin: 5% 3% 3% 1%;
 }
+
+/* Shop page */
+
 
 /* Footer */
 footer {

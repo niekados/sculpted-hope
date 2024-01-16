@@ -116,8 +116,8 @@ main {
 
 /* Call to action */
 .call-to-action {
-    background-color: rgba(255, 255, 255, 0.6);
-    padding: 0.3em;
+    background-color: rgba(245, 234, 227, 0.7);
+    padding: 1em;
     border-radius: 8px;
     margin-right: 3%;
 }
@@ -125,12 +125,8 @@ main {
 .call-to-action h2 {
     font-size: 1.3rem;
     text-align: center;
-    margin: 0.3em;
+    margin-bottom: 1em;
     line-height: 1.5em;
-    background: #f5eae3;
-    border-radius: 8px;
-    padding: 0.3em;
-    box-shadow: 0px 0px 15px rgba(65, 67, 62, 0.34);
 }
 
 .call-to-action a {

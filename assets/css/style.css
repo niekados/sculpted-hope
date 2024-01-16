@@ -186,6 +186,8 @@ main {
 }
 
 /* Workshops page */
+
+/* Workshop description */
 #workshops-description {
     width: 90%;
     margin: auto;
@@ -195,6 +197,28 @@ main {
 #workshops-description p {
     margin: 0 auto 30px;
     text-align: justify;
+}
+
+/* Time tables */
+#time-tables {
+    display: flex;
+    flex-direction: column;
+    background-color: #41433e;
+    padding-top: 20px;
+}
+
+#time-tables table {
+    padding-bottom: 20px;
+    font-size: 1.2rem;
+    color: #f5eae3;
+    text-align: center;
+    width: 10rem;
+    margin: auto;
+}
+
+#time-tables td {
+    border: #f5eae3 solid 1px;
+    border-radius: 8px;
 }
 
 /* Footer */

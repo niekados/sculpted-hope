@@ -112,7 +112,7 @@ main {
     background: black url("../images/shopping-bags.webp") no-repeat top center/150%;
 }
 
-/* Main page */
+/* Home page */
 
 /* Call to action */
 .call-to-action {
@@ -143,15 +143,6 @@ main {
     margin: auto;
 }
 
-#about h2 {
-    width: 70%;
-    margin: 30px 0 30px auto;
-    text-align: center;
-    color: #931507;
-    font-size: 1.7rem;
-    font-style: italic;
-}
-
 #about p {
     margin-bottom: 20px;
 }
@@ -172,15 +163,6 @@ main {
     display: flex;
     flex-wrap: wrap;
     align-items: baseline;
-}
-
-#shop h2 {
-    width: 100%;
-    text-align: center;
-    font-size: 1.7rem;
-    margin: 20px auto;
-    color: #931507;
-    font-weight: 600;
 }
 
 .shop-item {
@@ -236,6 +218,17 @@ footer {
 }
 
 /* Styles shared across all pages */
+
+/* Headings */
+.heading-red {
+    width: 100%;
+    font-size: 1.9rem;
+    color: #931507;
+    font-weight: 600;
+    font-style: italic;
+    text-align: center;
+    margin: 30px auto;
+}
 
 /* Mouse hover effect */
 .mouse-hover-effect a {

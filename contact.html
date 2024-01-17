@@ -51,11 +51,53 @@
 
     <!-- Main content -->
     <main>
+
         <!-- Hero image -->
         <section class="hero-image hero-contact-page">
 
         </section>
 
+        <!-- Contact form  -->
+        <section id="contact">
+            <h2 class="heading-red">Contact Me: <br>Pottery Dreams Await</h2>
+
+            <form id="contact-form" name="sculped_hope_contact_form" action="https://formspree.io/f/mzbnzyjy"
+                method="post">
+
+                <div class="form-field">
+                    <label for="name">Your Name</label>
+                    <input type="text" name="name" id="name" placeholder="Your Name" required>
+                </div>
+
+                <div class="form-field">
+                    <label for="email-address">Email Address</label>
+                    <input type="email" name="email_address" id="email-address" placeholder="Your Email Address"
+                        required>
+                </div>
+
+                <div class="form-field">
+                    <label for="contact-reason">Reason for Contact:</label>
+                    <select name="reason_for_contact" id="contact-reason" form="contact-form" required>
+                        <option value="" selected disabled>Select</option>
+                        <option value="General Inquiry">General Inquiry</option>
+                        <option value="Shop-related Inquiry">Shop-related Inquiry</option>
+                        <option value="Workshop Interest">Workshop Interest</option>
+                    </select>
+                </div>
+
+                <div class="form-field">
+                    <label for="message">Message</label>
+                    <textarea rows="7" name="message" id="message" placeholder="Write your message here."
+                        maxlength="500" required></textarea>
+                </div>
+
+                <div class="form-buttons">
+                    <input type="reset" class="red-button" value="Reset">
+                    <input type="submit" class="green-button" value="Send">
+                </div>
+
+            </form>
+        </section>
     </main>
 
     <!-- Footer -->

@@ -100,6 +100,7 @@ main {
     height: 30vh;
 }
 
+/* Home page */
 /* Credits https://unsplash.com/photos/a-white-plate-with-some-flowers-in-it-1ZYKRmTb2BE - photo by Kasia Sikorska */
 .hero-home-page {
     background: white url("../images/a-white-plate-with-some-flowers.webp") no-repeat center right/150%;
@@ -107,14 +108,22 @@ main {
     align-items: center;
 }
 
+/* Shop page */
 /* Credits:  https://unsplash.com/photos/red-and-gold-beaded-necklace-eD1RNYzzUxc) - photo by Tamanna Rumee*/
 .hero-shop-page {
     background: black url("../images/shopping-bags.webp") no-repeat top center/150%;
 }
 
+/* Workshops page */
 /* Credits: https://www.pexels.com/photo/a-person-making-a-pot-14676586/ - photo by Anastasia Lashkevich */
 .hero-workshops-page {
     background: black url("../images/person-making-a-pot.webp") no-repeat center center/150%;
+}
+
+/* Contact page */
+/* Credits: https://www.pexels.com/photo/two-white-message-balloons-1111368/ - photo by Miguel Á. Padriñán*/
+.hero-contact-page {
+    background: black url("../images/two-white-message-balloons.jpeg") no-repeat left center/cover;
 }
 
 /* Home page */

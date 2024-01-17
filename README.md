@@ -122,10 +122,22 @@ Colours were matched using the [Colour Contrast Checker](https://colourcontrast.
 - **#41433e** - An earthy, dark grey colour designated as the main font colour.
 - **#931507** - A deep red colour was personally chosen by the artist for her logo, and it will also be used for buttons on the website.
 
+## Deployment
+This project was saved and stored on [GitHub](https://github.com/). GitHub has "git" version control and deployment through GitHub Pages option.
+To deploy your project to GitHub Pages:
+- Go to your GitHub repository.
+- Click on the "Settings" tab.
+- Scroll down to the "Pages" section.
+- Under the “Build and deployment” source drop-down menu select “Deploy from a branch”.
+- Under the “Branch” drop-down menu, select “main” branch.
+- Click "Save." (It may take a few minutes for the GitHub Pages to deploy)
+- GitHub Pages will provide you with a link to your deployed website. The Deployed website address pattern is usually: "https://yourusername.github.io/your-repository/"
+
 ## Technologies Used
 - [Real Favicon Generator](https://realfavicongenerator.net/) - to generate Favicon from an image.
 - [Google Fonts](https://fonts.google.com/) - used to add fonts to the logo, navigation links and main content.
 - [Colour Contrast Checker](https://colourcontrast.cc/) - colour contrast checker for the background and fonts.
+- [Formspree](https://formspree.io) - Formspree is a form backend, API, and email service for HTML & JavaScript forms. Used to handle contact page form submissions.
 
 ## Credits
 - [UXWing](https://uxwing.com/ceramic-pottery-icon/) - used Ceramic Pottery Icon for Favicon, made available by [UXWing](https://uxwing.com/) under a free license.
@@ -154,5 +166,8 @@ Colours were matched using the [Colour Contrast Checker](https://colourcontrast.
     - [couple-of-white-bowls-sitting-on-top-of-a-table](https://unsplash.com/photos/a-couple-of-white-bowls-sitting-on-top-of-a-table-t9sRlYIzfIQ) - photo by [Tom Crew](https://unsplash.com/@tomcrewceramics).
     - [gray-cup](https://unsplash.com/photos/gray-cup-XtyxEBiA8D8) - photo by [Tom Crew](https://unsplash.com/@tomcrewceramics).
 
-    - #### Workshops Page
+- #### Workshops Page
     - [person-making-a-pot](https://www.pexels.com/photo/a-person-making-a-pot-14676586/) - photo by [Anastasia Lashkevich](https://www.pexels.com/@immortelleana/).
+
+- #### Contact Page
+    - [two-white-message-balloons](https://www.pexels.com/photo/two-white-message-balloons-1111368/) - photo by [Miguel Á. Padriñán](https://www.pexels.com/@padrinan/).

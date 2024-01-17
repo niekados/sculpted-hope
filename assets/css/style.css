@@ -247,13 +247,21 @@ main {
     margin: 50px auto 50px;
     display: flex;
     flex-direction: column;
-    align-content: center;
+    align-items: center;
     }
     
     .form-field {
         display: flex;
         flex-direction: column;
         margin-bottom: 10px;
+        width: 80%;
+    }
+
+    .form-field input, textarea {
+        border-radius: 8px;
+        padding: 5px;
+        border: none;
+        box-shadow: 1px 2px 2px rgba(65, 67, 62, 0.34);
     }
     
     .form-buttons {
@@ -261,8 +269,8 @@ main {
         text-align: center;
     }
     
-    #form-buttons input {
-        margin: 10px;
+    .form-buttons input {
+        margin: 20px;
     }
 
 /* Footer */

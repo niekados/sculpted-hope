@@ -240,6 +240,31 @@ main {
     height: 20vh;
 }
 
+/* Contact Page */
+
+/* Contact form */
+#contact-form {
+    margin: 50px auto 50px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    }
+    
+    .form-field {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 10px;
+    }
+    
+    .form-buttons {
+        width: 100%;
+        text-align: center;
+    }
+    
+    #form-buttons input {
+        margin: 10px;
+    }
+
 /* Footer */
 footer {
     display: block;

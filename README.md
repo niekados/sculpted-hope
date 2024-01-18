@@ -2,6 +2,31 @@
 
 Sculpted Hope is the website of a young artist who is progressing her hobby of pottery into her first business. For her little startup business, online presence is very important, as it is the most budget-friendly way of marketing and reaching a wider audience of like-minded people and customers. She wants to advertise her website on her business card, which she could hand out at art fairs, and promote her crafts through social media as well as friends and family. The artist would like to introduce herself and her works to visitors, allow them to purchase artworks they like, and invite them to join pottery classes at her small studio. 
 
+**Link to live page: [Sculpted Hope](https://niekados.github.io/sculpted-hope/index.html)**
+
+## Table Of Contents
+
+- [Strategy](#strategy)
+- [Targeted Audience](#targeted-audience)
+- [User Stories](#user-stories)
+- [Scope](#scope)
+- [Structure](#structure)
+    - [Navigation](#navigation)
+    - [Footer](#footer)
+    - [Home Page](#home-page)
+    - [Shop Page](#shop-page)
+    - [Workshop Page](#workshop-page)
+    - [Contact Page](#contact-page)
+    - [Contact Form Structure](#contact-form-structure)
+- [Skeleton](#skeleton)
+    - [Wireframes](#wireframes)
+- [Surface](#surface)
+    - [Fonts](#fonts)
+    - [Colours](#colours)
+- [Deployment](#deployment)
+- [Technologies Used](#technologies-used)
+- [Credits](#credits)
+
 ## Strategy
 
 Develop a static website for the artist to have an online presence. Build a platform to promote, showcase, and sell her artwork. Inform visitors about available pottery classes,  and allow them to locate her studio by having a local map and address. Have social media links and a contact form allowing users to communicate with an artist about her work, classes, shopping queries, and possible collaborations.
@@ -84,9 +109,8 @@ Page navigation- linear, with the same appearance on all the pages. Depending on
 
 - Name
 - Email
-- Phone (Optional)
 - Message box
-- Radio Buttons:
+- Select Options:
     - General
     - Shop
     - Classes
@@ -113,7 +137,7 @@ Page navigation- linear, with the same appearance on all the pages. Depending on
 - __Cormorant Garamond *italic*__ - google font designed by Christian Thalmann is used for the logo.
 - __Quicksand__ - google font Designed by Andrew Paglinawan is used for the main content and navigation links.
 
-## Colours
+### Colours
 The website colours were chosen to be light and earthy, not too distracting or harsh on the user's eyes. The artist picked a red logo, and that same red will be used for accents on the website to tie everything together. 
 Colours were matched using the [Colour Contrast Checker](https://colourcontrast.cc/) to guarantee a minimum contrast index of 4.5.
 ![Colour palette](assets/wireframes/colors.png)
@@ -130,14 +154,19 @@ To deploy your project to GitHub Pages:
 - Scroll down to the "Pages" section.
 - Under the “Build and deployment” source drop-down menu select “Deploy from a branch”.
 - Under the “Branch” drop-down menu, select “main” branch.
-- Click "Save." (It may take a few minutes for the GitHub Pages to deploy)
-- GitHub Pages will provide you with a link to your deployed website. The Deployed website address pattern is usually: "https://yourusername.github.io/your-repository/"
+- Click "Save." (It may take a few minutes for the GitHub Pages to deploy).
+- GitHub Pages will provide you with a link to your deployed website. The Deployed website address pattern is usually: "https://yourusername.github.io/your-repository/" .
 
 ## Technologies Used
+- CSS - Cascading Style Sheets is a style sheet language used for specifying the presentation and styling.
+- HTML - HyperText Markup Language is a markup language that defines the content and structure of web content.
+- (GitPod)[https://www.gitpod.io/] - cloud development environment. 
+- [Balsamiq](https://balsamiq.com/) - low-fidelity wireframing tool.
 - [Real Favicon Generator](https://realfavicongenerator.net/) - to generate Favicon from an image.
 - [Google Fonts](https://fonts.google.com/) - used to add fonts to the logo, navigation links and main content.
 - [Colour Contrast Checker](https://colourcontrast.cc/) - colour contrast checker for the background and fonts.
 - [Formspree](https://formspree.io) - Formspree is a form backend, API, and email service for HTML & JavaScript forms. Used to handle contact page form submissions.
+
 
 ## Credits
 - [UXWing](https://uxwing.com/ceramic-pottery-icon/) - used Ceramic Pottery Icon for Favicon, made available by [UXWing](https://uxwing.com/) under a free license.

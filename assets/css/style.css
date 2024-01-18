@@ -398,7 +398,7 @@ footer {
         position: relative;
         display: flex;
         box-shadow: none;
-        border-radius: none;
+        border-radius: 0;
         right: 0;
     }
 

@@ -159,6 +159,7 @@ main {
 
 #about p {
     margin-bottom: 20px;
+    text-align: justify;
 }
 
 #about p:nth-of-type(5) {

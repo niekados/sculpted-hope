@@ -409,10 +409,6 @@ footer {
         margin-bottom: 5%;
     }
 
-    .call-to-action h2 {
-        font-size: 1.7rem;
-    }
-
     /* About section */
     #artist-image {
         width: 30%;
@@ -489,9 +485,9 @@ footer {
 
     /* Home page */
 
-    /* About section */
-    #artist-image {
-        margin-top: 7%;
+    /* Call to action */
+    .call-to-action h2 {
+        font-size: 1.7rem;
     }
 
     #about p {

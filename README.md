@@ -2,6 +2,10 @@
 
 Sculpted Hope is the website of a young artist who is progressing her hobby of pottery into her first business. For her little startup business, online presence is very important, as it is the most budget-friendly way of marketing and reaching a wider audience of like-minded people and customers. She wants to advertise her website on her business card, which she could hand out at art fairs, and promote her crafts through social media as well as friends and family. The artist would like to introduce herself and her works to visitors, allow them to purchase artworks they like, and invite them to join pottery classes at her small studio. 
 
+
+![Sculpted Hope](assets/testing/index-responsive.webp)
+
+
 **Link to live page: [Sculpted Hope](https://niekados.github.io/sculpted-hope/index.html)**
 
 ## Table Of Contents
@@ -26,6 +30,7 @@ Sculpted Hope is the website of a young artist who is progressing her hobby of p
 - [Deployment](#deployment)
 - [Technologies Used](#technologies-used)
 - [Credits](#credits)
+- [Testing an Validation](#testing-and-validation)
 
 ## Strategy
 
@@ -200,3 +205,6 @@ To deploy your project to GitHub Pages:
 
 - #### Contact Page
     - [two-white-message-balloons](https://www.pexels.com/photo/two-white-message-balloons-1111368/) - photo by [Miguel Á. Padriñán](https://www.pexels.com/@padrinan/).
+
+## Testing and Validation
+Please follow **[this link](TESTING.md)** for Testing and Validation. 

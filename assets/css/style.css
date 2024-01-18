@@ -170,7 +170,7 @@ main {
     width: 49%;
     border-radius: 15px;
     float: left;
-    margin: 5% 3% 3% 1%;
+    margin: 10px 3% 3% 1%;
 }
 
 /* Shop page */
@@ -422,7 +422,7 @@ footer {
     #artist-image {
         width: 30%;
         border-radius: 15px;
-        margin-top: 10%;
+        margin-top: 75px;
     }
 
     #about p {

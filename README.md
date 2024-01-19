@@ -31,6 +31,7 @@ Sculpted Hope is the website of a young artist who is progressing her hobby of p
 - [Technologies Used](#technologies-used)
 - [Credits](#credits)
 - [Testing and Validation](#testing-and-validation)
+- [Future Features](#future-features)
 
 ## Strategy
 
@@ -208,3 +209,11 @@ To deploy your project to GitHub Pages:
 
 ## Testing and Validation
 Please follow **[this link](TESTING.md)** for Testing and Validation. 
+
+## Future Features:
+1. Implement Online Shop:
+    - Explore and purchase handcrafted ceramics from the comfort of your home.
+    - Introduce a secure and convenient online shopping experience.
+2. Add Workshops Booking System:
+    - Enhance learning by introducing a booking system for hands-on workshops.
+    - Easily schedule and manage your workshop attendance on the website.

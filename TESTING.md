@@ -1,5 +1,41 @@
 # Testing and Validation
 
+## Table Of Contents
+
+- [Testing](#testing)
+- [HTML validation](#html-validation-the-w3c-markup-validation-service)
+- [CSS validation](#css-validation-the-w3c-css-validation-service---jigsaw)
+- [Google Lighthouse - Audits for performance, accessibility and progressive web apps](#audits-for-performance-accessibility-and-progressive-web-apps-google-lighthouse)
+- [Website responsiveness](#website-responsiveness-am-i-responsive)
+- [Testing User Stories](#testing-user-stories)
+- [Test Form Submission](#test-form-submission-formspree)
+
+## Testing
+The following steps were taken to test the website:
+
+1. Test Navigation Links:
+    - Click each navigation link (Home Page, Shop Page, Workshops Page, Contact Page) individually on iPhone 12, MacBook Air, and Samsung Galaxy Tab S6 Lite.
+    - Verify for broken links and ensure each link opens the correct destination on Safari, Firefox, and Chrome browsers.
+2. Test Website Content Display:
+    - Visually inspect the website content on iPhone 12, MacBook Air, and Samsung Galaxy Tab S6 Lite using Safari, Firefox, and Chrome browsers.
+    - Confirm that the website content is displayed correctly on all devices and browsers.
+3. Test Footer Links:
+    - Click each footer link (Home Page, Shop Page, Workshops Page, Contact Page) individually on iPhone 12, MacBook Air, and Samsung Galaxy Tab S6 Lite.
+    - Confirm that each link works and opens in a new page on Safari, Firefox, and Chrome browsers.
+4. Test Buttons:
+    - Click each button individually on iPhone 12, MacBook Air, and Samsung Galaxy Tab S6 Lite.
+    - Verify that buttons open the correct destination (Buy buttons open on a new page, and the Form button submits the form) on Safari, Firefox, and Chrome browsers.
+5. Test Form:
+    - Test all form fields for correct information format on iPhone 12, MacBook Air, and Samsung Galaxy Tab S6 Lite.
+    - Ensure the form does not allow empty fields and successfully submit on Safari, Firefox, and Chrome browsers.
+6. Confirm User Testing Details:
+    - Confirm testing covered iPhone 12, MacBook Air, and Samsung Galaxy Tab S6 Lite devices.
+    - Ensure testing encompassed Safari, Firefox, and Chrome browsers.
+
+    ![Test Sheet](assets/testing/testing.webp)
+
+Test results are also available to download in the Excel sheet format **[here](assets/testing/testing.xlsx)**.
+
 ## HTML validation [The W3C Markup Validation Service](https://validator.w3.org/)
 
 ### index.html
@@ -112,3 +148,11 @@ Returning users would like to:
 - Check again the social links of an artist
     - Social media links are available on each page footer.
     ![Footer](assets/testing/footer.webp)
+
+## Test Form Submission [Formspree](https://formspree.io/)
+
+- Form submission confirmation
+    ![Form Confirmation](assets/testing/formspree-confirm.webp)
+
+- Form data delivered to the email
+    ![Form Data](assets/testing/formspree-form.webp)

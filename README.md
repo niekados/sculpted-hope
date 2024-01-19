@@ -30,7 +30,7 @@ Sculpted Hope is the website of a young artist who is progressing her hobby of p
 - [Deployment](#deployment)
 - [Technologies Used](#technologies-used)
 - [Credits](#credits)
-- [Testing an Validation](#testing-and-validation)
+- [Testing and Validation](#testing-and-validation)
 
 ## Strategy
 
@@ -96,13 +96,13 @@ Page navigation- linear, with the same appearance on all the pages. Depending on
 
 ### Shop Page
 
-- Mobile - Different hero image at the top of the page representing the shop page. Pictures of artworks with a “Buy” button at the bottom are displayed in a single column. The “Buy” button will be linked to an external artist's Etsy web store.
+- Mobile - a different hero image at the top of the page representing the shop page. Pictures of artworks with a “Buy” button at the bottom are displayed in a single column. The “Buy” button will be linked to an external artist's Etsy web store.
 - Tablet - The same layout as the mobile, but the artwork and buy buttons will be presented in two columns.
 - Desktop - The same layout as the mobile, but the artwork and buy buttons will be presented in three columns.
 
 ### Workshop Page
 
-- Mobile - Different hero image at the top of the page representing the workshop page. Bellow will be a call to action message to join classes/workshops and a “Join” button, followed by the schedule of the classes days and times broken down into weekdays and weekends. All are displayed in a single column. At the bottom of the page, the map will be placed to allow visitors to easily find the location of the studio.
+- Mobile - a different hero image at the top of the page representing the workshop page. Bellow will be a call to action message to join classes/workshops and a “Join” button, followed by the schedule of the classes days and times broken down into weekdays and weekends. All are displayed in a single column. At the bottom of the page, the map will be placed to allow visitors to easily find the location of the studio.
 - Tablet & Desktop - The same layout as the mobile, but times and dates are displayed in the same line for the weekdays and weekends, instead of a column.
 
 ### Contact Page
@@ -152,7 +152,7 @@ Colours were matched using the [Colour Contrast Checker](https://colourcontrast.
 - **#931507** - A deep red colour was personally chosen by the artist for her logo, and it will also be used for buttons on the website.
 
 ## Deployment
-This project was saved and stored on [GitHub](https://github.com/). GitHub has "git" version control and deployment through GitHub Pages option.
+This project was saved and stored on [GitHub](https://github.com/). GitHub has "git" version control and deployment through the GitHub Pages option.
 To deploy your project to GitHub Pages:
 - Go to your GitHub repository.
 - Click on the "Settings" tab.
@@ -160,7 +160,7 @@ To deploy your project to GitHub Pages:
 - Under the “Build and deployment” source drop-down menu select “Deploy from a branch”.
 - Under the “Branch” drop-down menu, select “main” branch.
 - Click "Save." (It may take a few minutes for the GitHub Pages to deploy).
-- GitHub Pages will provide you with a link to your deployed website. The Deployed website address pattern is usually: "https://yourusername.github.io/your-repository/" .
+- GitHub Pages will provide you with a link to your deployed website. The Deployed website address pattern is usually: "https://yourusername.github.io/your-repository/".
 
 ## Technologies Used
 - CSS - Cascading Style Sheets is a style sheet language used for specifying the presentation and styling.

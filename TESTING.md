@@ -64,3 +64,51 @@
 
 ### Contact Page
 ![Contact Page](assets/testing/contact-responsive.webp)
+
+## Testing User Stories
+
+New users would like to:
+
+- Find out more about the artist
+
+    - The user can find more about the artist on the home page.
+    ![About Section](assets/testing/about-section.webp)
+
+- Explore her artworks
+- Purchase artwork 
+    - The user can browse the shop gallery with the artwork imagery and can easily purchase them with the buy button.
+    ![Shop Section](assets/testing/shop-section.webp)
+
+- Find information about available pottery classes 
+    - The information and workshop schedule is available on the workshops page.
+    ![Workshops Section](assets/testing/workshops-section.webp)
+
+- Contact the artist 
+    - The Contact Me form is available on the Contact page if the user wants to get in touch with the artist.
+    ![Contact Section](assets/testing/contact-section.webp)
+
+- Follow the artist on social media
+    - Social media links are available on each page footer.
+    ![Footer](assets/testing/footer.webp)
+
+Returning users would like to:
+
+- Purchase artworks
+    - The user can browse the shop gallery with the artwork imagery and can easily purchase them with the buy button.
+    ![Shop Section](assets/testing/shop-section.webp)
+
+- Check the days and times of pottery classes
+    - The information and workshop schedule is available on the workshops page.
+    ![Workshops Section](assets/testing/workshops-section.webp)
+
+- Find the address of her pottery studio before attending her classes
+    - An Interactive Google Maps section is available on the Workshops page.
+    ![Map Section](assets/testing/map-section.webp)
+
+- Get in touch with an artist
+    - The Contact Me form is available on the Contact page if the user wants to get in touch with the artist.
+    ![Contact Section](assets/testing/contact-section.webp)
+
+- Check again the social links of an artist
+    - Social media links are available on each page footer.
+    ![Footer](assets/testing/footer.webp)

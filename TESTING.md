@@ -3,6 +3,7 @@
 ## Table Of Contents
 
 - [Testing](#testing)
+- [Bugs](#bugs)
 - [HTML validation](#html-validation-the-w3c-markup-validation-service)
 - [CSS validation](#css-validation-the-w3c-css-validation-service---jigsaw)
 - [Google Lighthouse - Audits for performance, accessibility and progressive web apps](#audits-for-performance-accessibility-and-progressive-web-apps-google-lighthouse)
@@ -35,6 +36,31 @@ The following steps were taken to test the website:
     ![Test Sheet](assets/testing/testing.webp)
 
 Test results are also available to download in the Excel sheet format **[here](assets/testing/testing.xlsx)**.
+
+## Bugs
+
+1. Issue: An anchor element cannot be embedded in a button element as per HTML convention.
+Solution:
+
+- Description: All buttons containing anchor elements were removed.
+- Implementation: Buttons were replaced with anchor elements styled as buttons in CSS.
+- Result: Ensures adherence to HTML conventions, allowing proper rendering and interaction.
+
+2. Issue: On the deployed website, there was a visible gap between the header and main elements.
+Solution:
+
+- Description: The margin-top of the main element was causing the gap.
+- Implementation: Replaced the margin-top with padding-top in the main element.
+- Result: Eliminated the gap, providing a seamless visual transition between the header and main content.
+
+3. Issue: On touch devices, after pressing a button, it remains in the hover state, causing a visual inconsistency.
+Status:
+
+- Description: The bug has not been fixed yet.
+- Plan for Resolution:
+    - Inspect the CSS styles related to button states on touch devices.
+    - Adjust styles or add specific touch device styles to ensure proper visual feedback.
+- Expected Result: After implementing the fix, buttons should no longer remain in the hover state on touch devices after being pressed.
 
 ## HTML validation [The W3C Markup Validation Service](https://validator.w3.org/)
 
